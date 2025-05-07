@@ -12,6 +12,7 @@ dependencies:
   fftea: ^1.0.2
   flutter_sound: ^9.28.0
   permission_handler: ^11.3.0
+  provider: ^6.1.5
 
 
 dev_dependencies:
